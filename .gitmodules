@@ -1,0 +1,3 @@
+[submodule "airtouch-iot-device-sdk-embedded-C"]
+	path = airtouch-iot-device-sdk-embedded-C
+	url = https://github.com/jwaytech/airtouch-iot-device-sdk-embedded-C.git
